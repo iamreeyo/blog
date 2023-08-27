@@ -71,8 +71,8 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl:
-production_url : https://www.dot.or.id/blog
-BASE_PATH : https://www.dot.or.id/blog
+production_url : https://www.dot.or.id/blog/
+BASE_PATH : https://www.dot.or.id/blog/
 #
 # !! You don't need to change any of the configuration flags below !!
 #
