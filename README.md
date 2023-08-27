@@ -4,4 +4,4 @@
 
 ## Questions?
 
-[let's chat!](https://www.dot.or.id)
+[let's chat!](mailto:staff.dot.or.id)
